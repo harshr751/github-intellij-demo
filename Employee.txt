@@ -1,0 +1,6 @@
+employee_id,name,age,department,salary,hire_date 
+E001,John Smith,35,Engineering,8000.00,2015-02-20
+E002,Jane Doe,28,Marketing,6500.00,2018-06-15
+E003,Peter Brown,40,HR,7500.00,2012-09-10
+E004,Amy Adams,25,Engineering,7000.00,2020-03-01
+E005,David Wilson,50,Sales,9500.00,2005-05-21
